@@ -66,7 +66,7 @@ jQuery(document).ready(function($) {
      
    }, 100);
 
-  var finalDate = '2018/07/29';
+  var finalDate = '2019/09/29';
 
   $('div#counter').countdown(finalDate)
     .on('update.countdown', function(event) {
